@@ -1,0 +1,13 @@
+READY 127.0.0.1:8004 proposal=f8c10ec211741e1817af196a36333934b5bdbdebf5eb729c23b0bf155063936d
+Commands: /start, /status, /peers, /quit
+127.0.0.1:8004 round=1 vote=211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 confidence=1/10 finalized=False
+127.0.0.1:8004 round=2 vote=211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 confidence=2/10 finalized=False
+127.0.0.1:8004 round=3 vote=211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 confidence=3/10 finalized=False
+127.0.0.1:8004 round=4 vote=211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 confidence=4/10 finalized=False
+127.0.0.1:8004 round=5 vote=211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 confidence=5/10 finalized=False
+127.0.0.1:8004 round=6 vote=211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 confidence=6/10 finalized=False
+127.0.0.1:8004 round=7 vote=211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 confidence=7/10 finalized=False
+127.0.0.1:8004 round=8 vote=211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 confidence=8/10 finalized=False
+127.0.0.1:8004 round=9 vote=211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 confidence=9/10 finalized=False
+127.0.0.1:8004 round=10 vote=211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 confidence=10/10 finalized=False
+FINALIZED 211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 rounds=10 ledger=data/8004/ledger.json

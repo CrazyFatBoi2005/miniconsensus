@@ -1,0 +1,13 @@
+Логи: /private/var/folders/4g/sqpl01cn4f5bs_1hk9kyn6q40000gn/T/miniconsensus-submission-check-iim0uwma/miniconsensus/logs/run-s1onw2_j
+1: python3 -u peer.py 8001 → /private/var/folders/4g/sqpl01cn4f5bs_1hk9kyn6q40000gn/T/miniconsensus-submission-check-iim0uwma/miniconsensus/logs/run-s1onw2_j/command-1.log
+2: python3 -u peer.py 8002 → /private/var/folders/4g/sqpl01cn4f5bs_1hk9kyn6q40000gn/T/miniconsensus-submission-check-iim0uwma/miniconsensus/logs/run-s1onw2_j/command-2.log
+3: python3 -u peer.py 8003 → /private/var/folders/4g/sqpl01cn4f5bs_1hk9kyn6q40000gn/T/miniconsensus-submission-check-iim0uwma/miniconsensus/logs/run-s1onw2_j/command-3.log
+4: python3 -u peer.py 8004 → /private/var/folders/4g/sqpl01cn4f5bs_1hk9kyn6q40000gn/T/miniconsensus-submission-check-iim0uwma/miniconsensus/logs/run-s1onw2_j/command-4.log
+5: python3 -u peer.py 8005 → /private/var/folders/4g/sqpl01cn4f5bs_1hk9kyn6q40000gn/T/miniconsensus-submission-check-iim0uwma/miniconsensus/logs/run-s1onw2_j/command-5.log
+Все узлы готовы. Начинаем опросы.
+1: FINALIZED 679c569206236301f8662fad5f771c6d229e4c83dace4e09799994ff7553f332 rounds=10 ledger=data/8001/ledger.json
+2: FINALIZED 679c569206236301f8662fad5f771c6d229e4c83dace4e09799994ff7553f332 rounds=10 ledger=data/8002/ledger.json
+4: FINALIZED 679c569206236301f8662fad5f771c6d229e4c83dace4e09799994ff7553f332 rounds=10 ledger=data/8004/ledger.json
+3: FINALIZED 679c569206236301f8662fad5f771c6d229e4c83dace4e09799994ff7553f332 rounds=11 ledger=data/8003/ledger.json
+5: FINALIZED 679c569206236301f8662fad5f771c6d229e4c83dace4e09799994ff7553f332 rounds=11 ledger=data/8005/ledger.json
+PASS: 5 узлов, одинаковые хеши, ledger проверены.

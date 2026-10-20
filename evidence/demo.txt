@@ -1,0 +1,13 @@
+Логи: /Users/1nternetdirector/Development/miniconsensus/logs/run-z9dlpezr
+1: python3 -u peer.py 8001 → /Users/1nternetdirector/Development/miniconsensus/logs/run-z9dlpezr/command-1.log
+2: python3 -u peer.py 8002 → /Users/1nternetdirector/Development/miniconsensus/logs/run-z9dlpezr/command-2.log
+3: python3 -u peer.py 8003 → /Users/1nternetdirector/Development/miniconsensus/logs/run-z9dlpezr/command-3.log
+4: python3 -u peer.py 8004 → /Users/1nternetdirector/Development/miniconsensus/logs/run-z9dlpezr/command-4.log
+5: python3 -u peer.py 8005 → /Users/1nternetdirector/Development/miniconsensus/logs/run-z9dlpezr/command-5.log
+Все узлы готовы. Начинаем опросы.
+1: FINALIZED 211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 rounds=10 ledger=data/8001/ledger.json
+2: FINALIZED 211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 rounds=10 ledger=data/8002/ledger.json
+3: FINALIZED 211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 rounds=10 ledger=data/8003/ledger.json
+4: FINALIZED 211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 rounds=10 ledger=data/8004/ledger.json
+5: FINALIZED 211b125162700d8bef8d524fbf69cd3a523b9e63aea6bace3161a0fceaefe844 rounds=10 ledger=data/8005/ledger.json
+PASS: 5 узлов, одинаковые хеши, ledger проверены.

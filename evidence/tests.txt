@@ -1,0 +1,14 @@
+test_finalization_notice_is_not_a_local_decision (test_peer.BlockTests.test_finalization_notice_is_not_a_local_decision) ... ok
+test_hash_does_not_depend_on_key_order (test_peer.BlockTests.test_hash_does_not_depend_on_key_order) ... ok
+test_invalid_network_block_is_not_counted (test_peer.BlockTests.test_invalid_network_block_is_not_counted) ... Rejected invalid block from 127.0.0.1:8002
+ok
+test_invalid_shape_is_rejected (test_peer.BlockTests.test_invalid_shape_is_rejected) ... ok
+test_late_unsampled_and_duplicate_responses (test_peer.BlockTests.test_late_unsampled_and_duplicate_responses) ... ok
+test_tampered_block_is_rejected (test_peer.BlockTests.test_tampered_block_is_rejected) ... ok
+test_five_nodes_with_conflicting_proposals (test_peer.NetworkTests.test_five_nodes_with_conflicting_proposals) ... ok
+test_one_of_five_nodes_absent_at_startup (test_peer.NetworkTests.test_one_of_five_nodes_absent_at_startup) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 57.654s
+
+OK
